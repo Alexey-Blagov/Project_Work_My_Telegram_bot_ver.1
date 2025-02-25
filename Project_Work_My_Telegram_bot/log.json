@@ -1,0 +1,375 @@
+21.02.2025 12:18:56: {
+  "information": "\u0411\u043E\u0442 \u0437\u0430\u043F\u0443\u0449\u0435\u043D AlexBlagov_bot, \u0432 12:18"
+}
+21.02.2025 12:19:43: {
+  "chatId": "582711074",
+  "datatime": "12:19",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:19:52: {
+  "chatId": "582711074",
+  "datatime": "12:19",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:19:54: {
+  "chatId": "582711074",
+  "datatime": "12:19",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:19:56: {
+  "chatId": "2502725006636582242",
+  "datatime": "12:19",
+  "data": "\u044F\u043D\u0432\u0430\u0440\u044C 2025"
+}
+21.02.2025 12:19:58: {
+  "chatId": "582711074",
+  "datatime": "12:19",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:20:13: {
+  "information": "\u0411\u043E\u0442 \u043E\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D AlexBlagov_bot, \u0432 12:20"
+}
+21.02.2025 12:26:43: {
+  "information": "\u0411\u043E\u0442 \u0437\u0430\u043F\u0443\u0449\u0435\u043D AlexBlagov_bot, \u0432 12:26"
+}
+21.02.2025 12:27:05: {
+  "chatId": "582711074",
+  "text": "/start",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:27:34: {
+  "chatId": "582711074",
+  "text": "\uD83D\uDC64 \u041F\u0440\u043E\u0444\u0438\u043B\u044C",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:28:39: {
+  "chatId": "2502725009810969793",
+  "data": "username"
+}
+21.02.2025 12:28:40: {
+  "chatId": "2502725008187943893",
+  "data": "gasconsum"
+}
+21.02.2025 12:28:42: {
+  "chatId": "2502725006918237573",
+  "data": "closed"
+}
+21.02.2025 12:32:42: {
+  "information": "Бот запущен AlexBlagov_bot, в 12:32"
+}
+21.02.2025 12:32:58: {
+  "chatId": "582711074",
+  "text": "/start",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:33:06: {
+  "chatId": "582711074",
+  "text": "ывыфвфывфыв",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:33:28: {
+  "chatId": "582711074",
+  "text": "/start",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:33:31: {
+  "chatId": "582711074",
+  "text": "\uD83D\uDC64 Профиль",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:33:33: {
+  "chatId": "2502725007598395400",
+  "data": " jobtitle"
+}
+21.02.2025 12:34:06: {
+  "chatId": "2502725006229265760",
+  "data": "carnumber"
+}
+21.02.2025 12:46:13: {
+  "information": "Бот запущен AlexBlagov_bot, в 12:46"
+}
+21.02.2025 12:47:16: {
+  "chatId": "5668341244071389397",
+  "data": "closed"
+}
+21.02.2025 12:47:17: {
+  "ExceptionType": "System.Collections.Generic.KeyNotFoundException",
+  "Message": "The given key \u00271319763540\u0027 was not present in the dictionary.",
+  "StackTrace": "   at System.Collections.Generic.Dictionary\u00602.get_Item(TKey key)\r\n   at Project_Work_My_Telegram_bot.MessageProcessing.BotClientOnCallbackQueryAsync(CallbackQuery callbackQuery) in C:\\Users\\Alexey.Blagov\\source\\repos\\Alexey-Blagov\\Project_Work_My_Telegram_bot\\Project_Work_My_Telegram_bot\\MessageProcessing.cs:line 418\r\n   at Project_Work_My_Telegram_bot.Program.OnUpdate(Update update) in C:\\Users\\Alexey.Blagov\\source\\repos\\Alexey-Blagov\\Project_Work_My_Telegram_bot\\Project_Work_My_Telegram_bot\\Program.cs:line 90",
+  "InnerException": null
+}
+21.02.2025 12:47:26: {
+  "chatId": "1319763540",
+  "text": "/start",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:47:31: {
+  "chatId": "1319763540",
+  "text": "\uD83D\uDC64 Профиль",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:47:34: {
+  "chatId": "5668341243080552644",
+  "data": "username"
+}
+21.02.2025 12:47:41: {
+  "chatId": "1319763540",
+  "text": "Петер Олеся",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:47:44: {
+  "chatId": "5668341244535200356",
+  "data": " jobtitle"
+}
+21.02.2025 12:47:48: {
+  "chatId": "1319763540",
+  "text": "Исп",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:47:52: {
+  "chatId": "5668341244011911968",
+  "data": "carname"
+}
+21.02.2025 12:47:58: {
+  "chatId": "1319763540",
+  "text": "Changan",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:48:02: {
+  "chatId": "5668341246043606390",
+  "data": "carnumber"
+}
+21.02.2025 12:48:22: {
+  "chatId": "1319763540",
+  "text": "Х692РН790",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:48:27: {
+  "chatId": "5668341243226937611",
+  "data": "typefuel"
+}
+21.02.2025 12:48:29: {
+  "chatId": "1319763540",
+  "text": "\uD83D\uDD0B AИ-95",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:48:32: {
+  "chatId": "5668341242856810386",
+  "data": "gasconsum"
+}
+21.02.2025 12:48:38: {
+  "chatId": "1319763540",
+  "text": "10",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:48:48: {
+  "chatId": "5668341245394445367",
+  "data": "closed"
+}
+21.02.2025 12:49:28: {
+  "chatId": "5668341244483815950",
+  "data": "closed"
+}
+21.02.2025 12:50:08: {
+  "chatId": "5668341245151180568",
+  "data": "closed"
+}
+21.02.2025 12:50:21: {
+  "chatId": "5668341242859241249",
+  "data": "closed"
+}
+21.02.2025 12:50:32: {
+  "information": "Бот запущен AlexBlagov_bot, в 12:50"
+}
+21.02.2025 12:50:32: {
+  "chatId": "5668341245151180568",
+  "data": "closed"
+}
+21.02.2025 12:50:33: {
+  "ExceptionType": "System.Collections.Generic.KeyNotFoundException",
+  "Message": "The given key \u00271319763540\u0027 was not present in the dictionary.",
+  "StackTrace": "   at System.Collections.Generic.Dictionary\u00602.get_Item(TKey key)\r\n   at Project_Work_My_Telegram_bot.MessageProcessing.BotClientOnCallbackQueryAsync(CallbackQuery callbackQuery) in C:\\Users\\Alexey.Blagov\\source\\repos\\Alexey-Blagov\\Project_Work_My_Telegram_bot\\Project_Work_My_Telegram_bot\\MessageProcessing.cs:line 418\r\n   at Project_Work_My_Telegram_bot.Program.OnUpdate(Update update) in C:\\Users\\Alexey.Blagov\\source\\repos\\Alexey-Blagov\\Project_Work_My_Telegram_bot\\Project_Work_My_Telegram_bot\\Program.cs:line 90",
+  "InnerException": null
+}
+21.02.2025 12:50:33: {
+  "chatId": "5668341242859241249",
+  "data": "closed"
+}
+21.02.2025 12:50:33: {
+  "ExceptionType": "System.Collections.Generic.KeyNotFoundException",
+  "Message": "The given key \u00271319763540\u0027 was not present in the dictionary.",
+  "StackTrace": "   at System.Collections.Generic.Dictionary\u00602.get_Item(TKey key)\r\n   at Project_Work_My_Telegram_bot.MessageProcessing.BotClientOnCallbackQueryAsync(CallbackQuery callbackQuery) in C:\\Users\\Alexey.Blagov\\source\\repos\\Alexey-Blagov\\Project_Work_My_Telegram_bot\\Project_Work_My_Telegram_bot\\MessageProcessing.cs:line 418\r\n   at Project_Work_My_Telegram_bot.Program.OnUpdate(Update update) in C:\\Users\\Alexey.Blagov\\source\\repos\\Alexey-Blagov\\Project_Work_My_Telegram_bot\\Project_Work_My_Telegram_bot\\Program.cs:line 90",
+  "InnerException": null
+}
+21.02.2025 12:50:47: {
+  "chatId": "1319763540",
+  "text": "/start",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:50:52: {
+  "chatId": "1319763540",
+  "text": "\uD83D\uDC64 Профиль",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:50:57: {
+  "chatId": "5668341245142861514",
+  "data": "username"
+}
+21.02.2025 12:51:04: {
+  "chatId": "1319763540",
+  "text": "Олеся Петер",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:51:05: {
+  "chatId": "5668341245124969184",
+  "data": " jobtitle"
+}
+21.02.2025 12:51:09: {
+  "chatId": "1319763540",
+  "text": "Исп",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:51:11: {
+  "chatId": "5668341246153557997",
+  "data": "carname"
+}
+21.02.2025 12:51:18: {
+  "chatId": "1319763540",
+  "text": "Changan",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:51:20: {
+  "chatId": "5668341244840277014",
+  "data": "carnumber"
+}
+21.02.2025 12:51:31: {
+  "chatId": "1319763540",
+  "text": "Х692РН790",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:51:34: {
+  "chatId": "5668341243103747364",
+  "data": "typefuel"
+}
+21.02.2025 12:51:35: {
+  "chatId": "1319763540",
+  "text": "\uD83D\uDD0B AИ-95",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:51:38: {
+  "chatId": "5668341243580984624",
+  "data": "gasconsum"
+}
+21.02.2025 12:51:41: {
+  "chatId": "1319763540",
+  "text": "10",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:51:47: {
+  "chatId": "5668341246451977092",
+  "data": "closed"
+}
+21.02.2025 12:51:52: {
+  "chatId": "1319763540",
+  "text": "ДА",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:52:02: {
+  "chatId": "1319763540",
+  "text": "\uD83D\uDCDA Вывести отчет",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:52:09: {
+  "chatId": "1319763540",
+  "text": "\uD83D\uDCDA Отчет за текущий месяц",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:52:12: {
+  "chatId": "1319763540",
+  "text": "ДА",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:52:52: {
+  "chatId": "1319763540",
+  "text": "\uD83D\uDCDD Регистрация поездки",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:53:00: {
+  "chatId": "5668341246993538434",
+  "data": "acceptisCar"
+}
+21.02.2025 12:53:08: {
+  "chatId": "1319763540",
+  "text": "ДА",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:53:25: {
+  "chatId": "5668341245294759500",
+  "data": "acceptisCar"
+}
+21.02.2025 12:53:27: {
+  "chatId": "1319763540",
+  "text": "НЕТ",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:53:51: {
+  "chatId": "1319763540",
+  "text": "Mercedes T888HH150",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:53:53: {
+  "chatId": "1319763540",
+  "text": "⬅️ Возврат в основное меню",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:53:56: {
+  "chatId": "1319763540",
+  "text": "Смена статуcа Admin/User",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:53:58: {
+  "chatId": "1319763540",
+  "text": "Администратор",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:54:13: {
+  "chatId": "1319763540",
+  "text": "qwerty",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:54:16: {
+  "chatId": "1319763540",
+  "text": "\uD83D\uDCDA Вывести отчет по User",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:54:21: {
+  "chatId": "5668341242944734710",
+  "data": "Благов А.В."
+}
+21.02.2025 12:54:23: {
+  "chatId": "5668341243368675809",
+  "data": "февраль 2025"
+}
+21.02.2025 12:54:25: {
+  "chatId": "1319763540",
+  "text": "ДА",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:54:33: {
+  "chatId": "1319763540",
+  "text": "\uD83D\uDCDA Вывести отчет по User",
+  "data": "Telegram.Bot.Types.Message"
+}
+21.02.2025 12:54:35: {
+  "chatId": "5668341243962895951",
+  "data": "Иванов Иван Иванович"
+}
+21.02.2025 12:54:37: {
+  "chatId": "5668341243344502015",
+  "data": "февраль 2025"
+}
+21.02.2025 12:54:39: {
+  "chatId": "1319763540",
+  "text": "НЕТ",
+  "data": "Telegram.Bot.Types.Message"
+}
