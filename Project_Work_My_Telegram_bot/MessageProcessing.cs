@@ -1210,9 +1210,9 @@ namespace Project_Work_My_Telegram_bot
                             _users.Remove(chatId);
                             _kbTypeInCase[chatId] = null;
                             OnCallbackQueryMessage -= ClosedEnterProfilAsync;
-                            return;
+                            break;
                         }
-                        else //Тут логика должна быть обновления Автомобиля 
+                        else 
                         {
                             await _botClient.SendMessage(
                              chatId: chatId,
